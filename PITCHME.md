@@ -6,7 +6,9 @@
 @snap[midpoint span-70 text-05]
 ## What is Markdown?
 
-Markdown is a plain text format for writing structured documents, based on conventions for indicating formatting in email and usenet posts. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
+* A plain text format for writing structured documents
+* Based on conventions for indicating format in email and usenet posts
+* Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
 
 ---
 @title[Introduction]
@@ -32,6 +34,62 @@ Websites like Reddit, StackOverflow, GitHub and millions of people use Markdown.
 What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability. As Gruber writes:
 
 @quote[The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.]
+
+---
+@title[The different flavours]
+@snap[midpoint span-70 text-05]
+## The different flavours
+
+* [CommonMark](https://spec.commonmark.org/0.29/) - Foundation for most markdown flavours
+* [GitHub Flavoured Markdown](https://github.github.com/gfm/) [Cheatsheet]()
+* [GitLab Flavoured Markdown](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm) [Cheatsheet]()
+
+
+[Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
+
+---
+@title[In your IDE]
+@snap[midpoint span-70 text-05]
+### In your IDE
+#### Sublime Text
+![sublimetextmd](assests/img/sublimetesxtmd.png)
+
+---
+@title[In your IDE]
+@snap[midpoint span-70 text-05]
+### In your IDE
+#### VS Code
+![vscodemd](assests/img/sublimetesxtmd.png)
+
+---
+@title[In your browser]
+@snap[midpoint span-70 text-05]
+### In your Browser
+#### On GitLab (or GitHub)
+![vscodemd](assests/img/sublimetesxtmd.png)
+
+
+
+![vscodemd](assests/img/sublimetesxtmd.png)
+
+---
+@title[In your browser]
+@snap[midpoint span-70 text-05]
+### In your browser
+#### On StackEdit
+![vscodemd](assests/img/sublimetesxtmd.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 ---
 @title[Using Markdown]
@@ -99,68 +157,6 @@ Underline-ish style:
 
 Line Below
 ------
-
----
-@title[The different flavours]
-@snap[midpoint span-70 text-05]
-## The different flavours
-
-* [CommonMark](https://spec.commonmark.org/0.29/) - Foundation for most markdown flavours
-* [GitHub Flavoured Markdown](https://github.github.com/gfm/)
-* [GitLab Flavoured Markdown](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm)
-
-
-[Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
-
----
-@title[In your IDE]
-@snap[midpoint span-70 text-05]
-## In your IDE
-
-### Sublime Text
-![sublimetextmd](https://i.imgur.com/VMmHRov.png)
-
----
-@title[In your IDE]
-@snap[midpoint span-70 text-05]
-## In your IDE
-
-### VS Code
-![sublimetextmd](https://i.imgur.com/6jWhNcf.png)
-
-
----
-@title[In your IDE]
-@snap[midpoint span-70 text-05]
-## The different flavours
-
-
-
-
----
-@title[On GitLab (or GitHub)]
-@snap[midpoint span-70 text-05]
-## On GitLab (or GitHub)
-
-
-
----
-@title[In your browser]
-@snap[midpoint span-70 text-05]
-## In your browser
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ---
