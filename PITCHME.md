@@ -3,7 +3,6 @@
 
 ---
 @title[Introduction]
-@snap[midpoint span-70 text-05]
 ## What is Markdown?
 
 * A plain text format for writing structured documents
