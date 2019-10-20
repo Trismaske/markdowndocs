@@ -132,9 +132,8 @@ def function():
 ```
 
 ---
-@snap[midpoint span-90 text-03]
+@snap[midpoint span-90 text-05]
 ## Headers
-
 ```
 # H1
 ## H2
@@ -142,19 +141,13 @@ def function():
 #### H4
 ##### H5
 ###### H6
-Line Below
-
--------
 ```
-
 # H1
 ## H2
 ### H3
 #### H4
 ##### H5
 ###### H6
-Line Below
-------
 
 ---
 @snap[midpoint span-70 text-05]
