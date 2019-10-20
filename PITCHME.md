@@ -1,7 +1,7 @@
 @title[Introduction]
 # Markdown Introduction
 
----
+---?color=linear-gradient(to left, #56ccf2, #2f80ed)
 @title[Introduction]
 ## What is Markdown?
 
@@ -9,14 +9,20 @@
 * Based on conventions for indicating format in email and usenet posts
 * Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
 
----
+---?color=linear-gradient(to left, #0f2027, #203a43, #2c5364) 
 @title[Introduction]
 @snap[midpoint span-70 text-05]
 ## Where did it come from?
 
 ![John Gruber](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/John_Gruber_2008_by_George_Del_Barrio.tif/lossless-page1-200px-John_Gruber_2008_by_George_Del_Barrio.tif.png "Portrait by George Del Barrio")
 
-John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people "to write using an easy-to-read and easy-to-write plain text format. In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with conventions for footnotes, tables, and other document elements. Some allowed Markdown documents to be rendered in formats other than HTML.
+* John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax
+* The goal was to enable people "to write using an easy-to-read and easy-to-write plain text format".
+* In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with:
+    * Conventions for footnotes
+    * Tabless
+    * Graphs & more
+* Some allowed Markdown documents to be rendered in formats other than HTML.
 
 ---
 @title[Introduction]
