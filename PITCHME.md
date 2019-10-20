@@ -124,14 +124,6 @@ Quote break.
 You can easily highlight anything that should be viewed as code and not simple text.
 A whole block of code can be fenced with triple backticks ```` ``` ````,
 triple tildes (`~~~`), or indended 4 or more spaces to achieve a similar effect for a larger body of code.
-````
-```python
-def function():
-    #indenting works just fine in the fenced code block
-    s = "Python code"
-    print s
-```
-````
 ```python
 def function():
     #indenting works just fine in the fenced code block
