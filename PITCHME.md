@@ -135,7 +135,7 @@ def function():
 @snap[midpoint span-90 text-03]
 ## Headers
 
-```markdown
+```
 # H1
 ## H2
 ### H3
