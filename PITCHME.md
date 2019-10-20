@@ -43,10 +43,10 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 * [CommonMark](https://spec.commonmark.org/0.29/) - Foundation for most markdown flavours
     * [Cheatsheet](https://commonmark.org/help/)
     * [Spec](https://spec.commonmark.org/0.29/)
-* [GitHub](https://github.github.com/gfm/) Flavoured Markdown (Built on CommonMark)
+* [GitHub Flavoured Markdown](https://github.github.com/gfm/) (Built on CommonMark)
     * [Cheatsheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
     * [Spec](https://github.github.com/gfm/)
-* [GitLab](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm) Flavoured Markdown (Built on GitHub Flavoured Markdown)
+* [GitLab Flavoured Markdown](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm) (Built on CommonMark & inspired by GitHub Flavoured Markdown)
     * [Cheatsheet](https://gitlab.com/help/user/markdown)
     * [Spec](https://docs.gitlab.com/ee/user/markdown.html)
 * [Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
