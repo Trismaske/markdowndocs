@@ -141,7 +141,6 @@ def function():
 ### H3
 #### H4
 ##### H5
-###### H6
 Line Below
 ------
 ```
@@ -151,7 +150,6 @@ Line Below
 ### H3
 #### H4
 ##### H5
-###### H6
 Line Below
 ------
 
