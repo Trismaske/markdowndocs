@@ -1,17 +1,14 @@
-@title[Introduction]
 # Markdown Introduction
 
----?color=linear-gradient(to left, #000000, #434343)
-@title[Introduction]
-@snap[midpoint text-05]
+---
+@snap[midpoint text-07]
 ## What is Markdown?
 
 * A plain text format for writing structured documents
 * Based on conventions for indicating format in email and usenet posts
 * Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML.
 
----?color=linear-gradient(to left, #0f2027, #203a43, #2c5364) 
-@title[Introduction]
+---
 @snap[midpoint span-70 text-05]
 ## Where did it come from?
 
@@ -26,14 +23,12 @@
 * Some allowed Markdown documents to be rendered in formats other than HTML.
 
 ---
-@title[Introduction]
 @snap[midpoint span-70 text-05]
 ## Who uses it today?
 
 Websites like Reddit, StackOverflow, GitHub and millions of people use Markdown. Markdown has now moved beyond the web to books, articles, slide shows, letters, and lecture notes and more!
 
 ---
-@title[Introduction]
 @snap[midpoint span-70 text-05]
 ## What makes Markdown special?
 
@@ -42,7 +37,6 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 @quote[The overriding design goal for Markdown’s formatting syntax is to make it as readable as possible. The idea is that a Markdown-formatted document should be publishable as-is, as plain text, without looking like it’s been marked up with tags or formatting instructions.]
 
 ---
-@title[The different flavours]
 @snap[midpoint span-70 text-05]
 ## The different flavours
 
@@ -54,21 +48,18 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 [Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
 
 ---
-@title[In your IDE]
 @snap[midpoint span-70 text-05]
 ### In your IDE
 #### Sublime Text
 ![sublimetextmd](assests/img/sublimetesxtmd.png)
 
 ---
-@title[In your IDE]
 @snap[midpoint span-70 text-05]
 ### In your IDE
 #### VS Code
 ![vscodemd](assests/img/sublimetesxtmd.png)
 
 ---
-@title[In your browser]
 @snap[midpoint span-70 text-05]
 ### In your Browser
 #### On GitLab (or GitHub)
@@ -79,7 +70,6 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 ![vscodemd](assests/img/sublimetesxtmd.png)
 
 ---
-@title[In your browser]
 @snap[midpoint span-70 text-05]
 ### In your browser
 #### On StackEdit
@@ -98,11 +88,9 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 
 
 ---
-@title[Using Markdown]
 ## Using Markdown
 
 ---
-@title[Blockquotes]
 @snap[midpoint span-70 text-05]
 ## Blockquotes
 
@@ -116,7 +104,6 @@ Quote break.
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
 
 ---
-@title[Code spans and blocks]
 @snap[midpoint span-70 text-05]
 ## Code spans and blocks
 
@@ -132,7 +119,6 @@ def function():
 ```
 
 ---
-@title[Emphasis]
 @snap[midpoint span-70 text-05]
 ### Emphasis
 
@@ -148,7 +134,6 @@ Strong emphasis, aka bold, with double **asterisks** or __underscores__.
 Combined emphasis with **asterisks and _underscores_**.
 
 ---
-@title[Emphasis]
 @snap[midpoint span-70 text-05]
 ### Headers
 
@@ -166,7 +151,6 @@ Line Below
 
 
 ---
-@title[Emphasis]
 @snap[midpoint span-70 text-05]
 ### Horizontal Rule
 
