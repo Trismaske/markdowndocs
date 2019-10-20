@@ -132,7 +132,7 @@ def function():
 ```
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-90 text-05]
 ## Headers
 
 ```markdown
