@@ -1,7 +1,7 @@
 # Markdown Introduction
 
 ---
-@snap[midpoint text-07]
+@snap[midpoint span-90 text-07]
 ## What is Markdown?
 
 * A plain text format for writing structured documents
@@ -41,39 +41,43 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 ## The different flavours
 
 * [CommonMark](https://spec.commonmark.org/0.29/) - Foundation for most markdown flavours
-* [GitHub Flavoured Markdown](https://github.github.com/gfm/) [Cheatsheet]()
-* [GitLab Flavoured Markdown](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm) [Cheatsheet]()
-
-
-[Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
-
----
-@snap[midpoint span-70 text-05]
-### In your IDE
-#### Sublime Text
-![sublimetextmd](assests/img/sublimetesxtmd.png)
+    * [Cheatsheet](https://commonmark.org/help/)
+    * [Spec](https://spec.commonmark.org/0.29/)
+* [GitHub](https://github.github.com/gfm/) Flavoured Markdown (Built on CommonMark)
+    * [Cheatsheet](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+    * [Spec](https://github.github.com/gfm/)
+* [GitLab](https://docs.gitlab.com/ee/user/markdown.html#gitlab-flavored-markdown-gfm) Flavoured Markdown (Built on GitHub Flavoured Markdown)
+    * [Cheatsheet](https://gitlab.com/help/user/markdown)
+    * [Spec](https://docs.gitlab.com/ee/user/markdown.html)
+* [Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
 
 ---
 @snap[midpoint span-70 text-05]
-### In your IDE
-#### VS Code
-![vscodemd](assests/img/sublimetesxtmd.png)
+## In your IDE
+### Sublime Text
+![sublimetextmd](assets/img/sublimetesxtmd.png)
 
 ---
 @snap[midpoint span-70 text-05]
-### In your Browser
-#### On GitLab (or GitHub)
-![vscodemd](assests/img/sublimetesxtmd.png)
-
-
-
-![vscodemd](assests/img/sublimetesxtmd.png)
+## In your IDE
+### VS Code
+![vscodemd](assets/img/sublimetesxtmd.png)
 
 ---
 @snap[midpoint span-70 text-05]
-### In your browser
-#### On StackEdit
-![vscodemd](assests/img/sublimetesxtmd.png)
+## In your Browser
+### On GitLab (or GitHub)
+![vscodemd](assets/img/sublimetesxtmd.png)
+
+
+
+![vscodemd](assets/img/sublimetesxtmd.png)
+
+---
+@snap[midpoint span-70 text-05]
+## In your browser
+### On StackEdit
+![vscodemd](assets/img/sublimetesxtmd.png)
 
 
 
