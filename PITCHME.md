@@ -29,7 +29,7 @@
 Websites like Reddit, StackOverflow, GitHub and millions of people use Markdown. Markdown has now moved beyond the web to books, articles, slide shows, letters, and lecture notes and more!
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-70 text-05]s
 ## What makes Markdown special?
 
 What distinguishes Markdown from many other lightweight markup syntaxes, which are often easier to write, is its readability. As Gruber writes:
@@ -58,19 +58,19 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 ![sublimetextmd](assets/img/sublimetextmd.png)
 
 ---
-@snap[midpoint span-75 text-05]
+@snap[midpoint span-70 text-05]
 ## In your IDE
 ### VS Code
 ![vscodemd](assets/img/vscodemd.png)
 
 ---
-@snap[midpoint span-75 text-05]
+@snap[midpoint span-70 text-05]
 ## In your Browser
 ### On GitLab (or GitHub)
 ![gitlabmd](assets/img/gitlabmdedit.png)
 
 ---
-@snap[midpoint span-75 text-05]
+@snap[midpoint span-70 text-05]
 ## In your Browser
 ### On GitLab (or GitHub)
 ![gitlabmd](assets/img/gitlabmdpreview.png)
