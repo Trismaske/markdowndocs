@@ -76,7 +76,7 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 ![gitlabmd](assets/img/gitlabmdpreview.png)
 
 ---
-@snap[midpoint span-75 text-05]
+@snap[midpoint span-70 text-05]
 ## In your browser
 ### On StackEdit
 ![vscodemd](assets/img/stackeditmd.png)
