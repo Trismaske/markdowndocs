@@ -52,13 +52,13 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 * [Here](https://github.com/commonmark/commonmark-spec/wiki/markdown-flavors) is a long list of Markdown flavours
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-95 text-05]
 ## In your IDE
 ### Sublime Text
 ![sublimetextmd](assets/img/sublimetextmd.png)
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-95 text-05]
 ## In your IDE
 ### VS Code
 ![vscodemd](assets/img/vscodemd.png)
@@ -67,13 +67,19 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 @snap[midpoint span-95 text-05]
 ## In your Browser
 ### On GitLab (or GitHub)
-![gitlabmd](assets/img/gitlabmd.png)
+![gitlabmd](assets/img/gitlabmdedit.png)
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-95 text-05]
+## In your Browser
+### On GitLab (or GitHub)
+![gitlabmd](assets/img/gitlabmdpreview.png)
+
+---
+@snap[midpoint span-95 text-05]
 ## In your browser
 ### On StackEdit
-![vscodemd](assets/img/stackedit.png)
+![vscodemd](assets/img/stackeditmd.png)
 
 
 
