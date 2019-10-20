@@ -150,12 +150,9 @@ def function():
 ###### H6
 
 ---
-@snap[midpoint span-70 text-05]
+@snap[midpoint span-90 text-05]
 ### Horizontal Rule
-
-It's very simple to create a horizontal rule, by using three or more hyphens, asterisks,
-or underscores:
-
+It's very simple to create a horizontal rule, by using three or more hyphens, asterisks, or underscores:
 ```markdown
 Three or more hyphens,
 
