@@ -134,22 +134,18 @@ def function():
 ---
 @snap[midpoint span-90 text-09]
 ## Headers
-
 ```markdown
 # H1
 ## H2
 ### H3
 #### H4
-##### H5
 Line Below
 ------
 ```
-
 # H1
 ## H2
 ### H3
 #### H4
-##### H5
 Line Below
 ------
 
