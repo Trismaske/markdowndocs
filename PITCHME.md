@@ -86,8 +86,8 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 
 ---
 @snap[midpoint span-70 text-05]
-### Emphasis
-There are multiple ways to emphasize text in markdown. You can italicize, bold, strikethrough, as well as combine these emphasis styles together.
+## Emphasis
+There are multiple ways to emphasize text in markdown. You can _italicize_, **bold**, ~~strikethrough~~, as well as combine these emphasis styles together.
 Examples:
 Emphasis, aka italics, with *asterisks* or _underscores_.
 Strong emphasis, aka bold, with double **asterisks** or __underscores__.
