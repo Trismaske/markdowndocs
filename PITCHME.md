@@ -90,13 +90,13 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 There are multiple ways to emphasize text in markdown. You can _italicize_, **bold**, ~~strikethrough~~, as well as ~~**_combine these emphasis styles together_**~~.
 Examples:
 ```markdown
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Italics, with *asterisks* or _underscores_.
 ```
-Emphasis, aka italics, with *asterisks* or _underscores_.
+Italics, with *asterisks* or _underscores_.
 ```markdown
-Strong emphasis, aka bold, with double **asterisks** or __underscores__.
+Bold, with double **asterisks** or __underscores__.
 ```
-Strong emphasis, aka bold, with double **asterisks** or __underscores__.
+Bold, with double **asterisks** or __underscores__.
 ```markdown
 Strikethrough uses two tildes. ~~Scratch this~~.
 ```
