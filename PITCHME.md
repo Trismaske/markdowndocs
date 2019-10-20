@@ -1,8 +1,9 @@
 @title[Introduction]
 # Markdown Introduction
 
----?color=linear-gradient(to left, #56ccf2, #2f80ed)
+---?color=linear-gradient(to left, #000000, #434343)
 @title[Introduction]
+@snap[midpoint text-05]
 ## What is Markdown?
 
 * A plain text format for writing structured documents
@@ -19,8 +20,8 @@
 * John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax
 * The goal was to enable people "to write using an easy-to-read and easy-to-write plain text format".
 * In the next decade, dozens of implementations were developed in many languages. Some extended the original Markdown syntax with:
-    * Conventions for footnotes
-    * Tabless
+    * Footnotes
+    * Tables
     * Graphs & more
 * Some allowed Markdown documents to be rendered in formats other than HTML.
 
