@@ -73,7 +73,7 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 @snap[midpoint span-70 text-05]
 ## In your browser
 ### On StackEdit
-![vscodemd](assets/img/sublimetextmd.png)
+![vscodemd](assets/img/stackedit.png)
 
 
 
