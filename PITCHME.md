@@ -150,37 +150,18 @@ def function():
 ###### H6
 
 ---
-@snap[midpoint span-90 text-05]
-### Horizontal Rule
-It's very simple to create a horizontal rule, by using three or more hyphens, asterisks, or underscores:
-```markdown
-Three or more hyphens,
-
----
-
-asterisks,
-
-***
-
-or underscores
-
-___
-```
-
 ### Images
-
 Examples:
-
 ```markdown
 Inline-style (hover to see title text):
 
-![alt text](img/markdown_logo.png "Title Text")
+![alt text](assets/img/markdown_logo.png "Title Text")
 
 Reference-style (hover to see title text):
 
 ![alt text1][logo]
 
-[logo]: img/markdown_logo.png "Title Text"
+[logo]: assets/img/markdown_logo.png "Title Text"
 ```
 
 Inline-style (hover to see title text):
