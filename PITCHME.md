@@ -67,6 +67,7 @@ What distinguishes Markdown from many other lightweight markup syntaxes, which a
 @snap[midpoint span-70 text-05]
 ## In your Browser
 ### On GitLab (or GitHub)
+@snap[midpoint span-95]
 ![gitlabmd](assets/img/gitlabmd.png)
 
 ---
