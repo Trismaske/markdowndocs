@@ -122,7 +122,7 @@ Quote break.
 @snap[midpoint span-80 text-05]
 ## Code spans and blocks
 You can easily highlight anything that should be viewed as code and not simple text.
-A whole block of code can be fenced with triple backticks ```` ``` ````,
+A whole block of code can be fenced with triple backticks "```` ``` ````",
 triple tildes (`~~~`), or indended 4 or more spaces to achieve a similar effect for a larger body of code.
 ```python
 def function():
